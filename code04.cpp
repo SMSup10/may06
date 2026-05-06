@@ -1,4 +1,5 @@
 <기말고사 실기시험 1번 문항>
+//명령줄 인자로 받은 두 숫자를 더해서 출력
 #include<iostream>
 
 int Add(int a, int b) {
